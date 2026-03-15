@@ -1,3 +1,3 @@
 #!/bin/bash
-echo "sucessfully clone repo and creating repo"
-mkdir test_{1..5}
+echo "this is to test the scripting file"
+mkdir dir_{1..10}
